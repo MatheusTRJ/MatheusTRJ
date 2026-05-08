@@ -1,3 +1,4 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=180&section=header&text=Mateus%20R.%20Magalhães&fontSize=30&fontColor=ffffff)
 # Hi 👋
 
 My name is Mateus R. Magalhães.
