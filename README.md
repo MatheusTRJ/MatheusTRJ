@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**MatheusTRJ/MatheusTRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mateus R. Magalhães.
 
-Here are some ideas to get you started:
+I'm a Technical Informatics student at IFPA Marabá Industrial and currently studying HTML, CSS and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like technology and I'm always trying to improve my programming skills and learn new things.
+
+---
+
+## 💻 What I'm studying
+
+- HTML
+- CSS
+- Python
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusTRJ&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTRJ&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+I'm interested in becoming a Full Stack Developer and building useful projects while improving my skills step by step.
+
+---
+
+## 📫 Contact
+
+Email: matheusribeiromagalhaes123@gmail.com
+
+LinkedIn: Mateus Ribeiro Magalhães
